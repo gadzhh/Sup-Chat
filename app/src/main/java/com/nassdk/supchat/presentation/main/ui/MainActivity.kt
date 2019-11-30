@@ -36,16 +36,6 @@ class MainActivity : MvpAppCompatActivity(), MainView, NavigationView.OnNavigati
 
     private fun initViews() {
 
-//        setSupportActionBar(toolBarChats)
-//        toolBarChats?.inflateMenu(R.menu.menu_main)
-//
-//        val toggle = ActionBarDrawerToggle(this, drawerLayout, toolBarChats, R.string.nav_drawer_open, R.string.nav_drawer_close)
-//        toggle.isDrawerIndicatorEnabled
-//        drawerLayout.addDrawerListener(toggle)
-//        toggle.syncState()
-//
-//        nav_view.setNavigationItemSelectedListener(this)
-//        val header = nav_view.getHeaderView(0)
     }
 
 
